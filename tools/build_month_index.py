@@ -14,6 +14,10 @@ content-free (an index only) by:
 Usage:
     python3 tools/build_month_index.py July-2026
 
+If the combined file does not exist yet, the script bootstraps it (a default
+cover for a folder named like ``July-2026`` plus the generated Table of Contents).
+Run it after creating or editing any section file.
+
 The operation is idempotent: re-running it does not duplicate anchors or links.
 """
 from __future__ import annotations
@@ -29,11 +33,31 @@ BACKLINK_TEXT = "Back to Monthly Index"
 MAX_TOC_LEVEL = 3
 TOC_MARKER = '<a id="toc"></a>'
 
-DEFAULT_COVER = (
-    "# CURRENT AFFAIRS\n\n"
-    "> **About this compilation.** This document is an independently prepared\n"
-    "> study aid. The full content lives in the per-section files listed below.\n"
-)
+def month_labels(month_dir: Path) -> tuple[str, str]:
+    """Return (title, month) for a folder named like ``July-2026``."""
+    match = re.match(r"^([A-Za-z]+)-(\d{4})$", month_dir.name)
+    if match:
+        month = match.group(1).capitalize()
+        year = match.group(2)
+        return f"{month} {year}".strip(), month
+    return month_dir.name, month_dir.name
+
+
+def default_cover(month_dir: Path, sections: int) -> str:
+    title, _ = month_labels(month_dir)
+    return (
+        f"# CURRENT AFFAIRS — {title.upper()}\n\n"
+        "### A Monthly Compilation for the UPSC Civil Services Preliminary Examination\n\n"
+        "> **About this compilation.** This document is an independently prepared study aid\n"
+        "> that follows the section-wise structure and presentation style commonly used by\n"
+        "> monthly current-affairs magazines (long-form \"Why in News?\" items supported by\n"
+        "> background explainers and comparison tables, plus a \"News in Shorts\" section).\n"
+        "> It is **not** affiliated with, endorsed by, or a reproduction of any coaching\n"
+        "> institute's material. Content is compiled from publicly reported developments and\n"
+        "> should be cross-verified against official sources (PIB, ministry websites, The\n"
+        "> Hindu, Indian Express) before relying on any figure.\n\n\n"
+        f"**Coverage:** {title} · **Sections:** {sections}\n\n---\n\n"
+    )
 
 
 def slugify(text: str) -> str:
@@ -68,9 +92,15 @@ def combined_file(month_dir: Path) -> Path:
         for path in sorted(month_dir.glob("*.md"))
         if path.name.lower() != "readme.md"
     ]
-    if not candidates:
-        raise SystemExit(f"no combined .md file found in {month_dir}")
-    return candidates[0]
+    if candidates:
+        return candidates[0]
+    # Bootstrap: derive the index filename from a folder named like "July-2026".
+    match = re.match(r"^([A-Za-z]+)-(\d{4})$", month_dir.name)
+    if match:
+        name = f"CURRENT_AFFAIRS_{match.group(1).upper()}_{match.group(2)}.md"
+    else:
+        name = "CURRENT_AFFAIRS.md"
+    return month_dir / name
 
 
 def process_section(notes_path: Path, combined_name: str) -> tuple[str, list]:
@@ -115,9 +145,14 @@ def process_section(notes_path: Path, combined_name: str) -> tuple[str, list]:
 
 
 def build_index(month_dir: Path, combined_path: Path, toc: list[tuple[str, int, str, str]]) -> None:
-    text = combined_path.read_text(encoding="utf-8")
+    text = combined_path.read_text(encoding="utf-8") if combined_path.is_file() else ""
     index = text.find(TOC_MARKER)
-    cover = text[:index] if index != -1 else DEFAULT_COVER
+    if index != -1:
+        cover = text[:index]
+    elif text.strip():
+        cover = text
+    else:
+        cover = default_cover(month_dir, len({folder for folder, *_ in toc}))
     if cover and not cover.endswith("\n"):
         cover += "\n"
 
