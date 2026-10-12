@@ -57,10 +57,32 @@ Each combined edition follows the standard monthly-magazine format:
 - Numbered sections, each opening with long-form **"Why in News?"** items.
 - Background explainers, comparison tables, **Challenges / Way Forward / Conclusion**.
 - A **News in Shorts** subsection of concise, factual items.
+- A **clickable Table of Contents**: every TOC entry is an anchor link that jumps
+  directly to its heading, and each section ends with a **↑ Back to Table of
+  Contents** link. Works in rendered Markdown (GitHub, GitLab, VS Code preview, etc.).
+
+## Section Index — July 2026
+
+Deep links into the [combined July 2026 edition](July-2026/CURRENT_AFFAIRS_JULY_2026.md):
+
+| # | Section | Jump to section | Section notes |
+|---|---------|-----------------|---------------|
+| 01 | Polity & Governance | [1. Polity & Governance](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-1) | [notes](July-2026/1-Polity-and-Governance/notes.md) |
+| 02 | International Relations | [2. International Relations](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-2) | [notes](July-2026/2-International-Relations/notes.md) |
+| 03 | Economy | [3. Economy](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-3) | [notes](July-2026/3-Economy/notes.md) |
+| 04 | Security | [4. Security](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-4) | [notes](July-2026/4-Security/notes.md) |
+| 05 | Environment | [5. Environment](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-5) | [notes](July-2026/5-Environment/notes.md) |
+| 06 | Social Issues | [6. Social Issues](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-6) | [notes](July-2026/6-Social-Issues/notes.md) |
+| 07 | Science & Technology | [7. Science & Technology](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-7) | [notes](July-2026/7-Science-and-Technology/notes.md) |
+| 08 | Culture | [8. Culture](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-8) | [notes](July-2026/8-Culture/notes.md) |
+| 09 | Schemes in News | [9. Schemes in News](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-9) | [notes](July-2026/9-Schemes-in-News/notes.md) |
+| 10 | Places in News | [10. Places in News](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-10) | [notes](July-2026/10-Places-in-News/notes.md) |
 
 ## How to use
 
 - Read a month's combined file top-to-bottom for a full month's revision.
+- Use its **clickable Table of Contents** to jump straight to a section, and the
+  **↑ Back to Table of Contents** links to return.
 - Or open an individual section folder to revise one topic at a time.
 - Add future months as new folders (e.g. `August-2026/`) with the same structure.
 
