@@ -2,36 +2,9 @@
 
 A structured repository of current-affairs notes for the UPSC Civil Services
 Preliminary Examination, organised month-wise in the section-by-section style of
-monthly current-affairs magazines.
-
-## Repository Structure
-
-```
-.
-├── README.md                # this index
-├── .gitignore
-├── tools/
-│   └── build_month_index.py # regenerates a month's index from its section files
-├── July-2026/               # one folder per month
-│   ├── CURRENT_AFFAIRS_JULY_2026.md   # monthly index (cover + Table of Contents)
-│   ├── 1-Polity-and-Governance/notes.md
-│   ├── 2-International-Relations/notes.md
-│   ├── 3-Economy/notes.md
-│   ├── 4-Security/notes.md
-│   ├── 5-Environment/notes.md
-│   ├── 6-Social-Issues/notes.md
-│   ├── 7-Science-and-Technology/notes.md
-│   ├── 8-Culture/notes.md
-│   ├── 9-Schemes-in-News/notes.md
-│   └── 10-Places-in-News/notes.md
-└── August-2026/             # (add future months here)
-```
-
-- Each **month** gets its own folder (e.g. `July-2026/`).
-- Every month folder contains a **monthly index** file (cover + Table of Contents)
-  plus the ten **per-section** notes folders.
-- Content lives **only** in the per-section files. The monthly index links to them
-  and stores no duplicated text, so there is a single source of truth per section.
+monthly current-affairs magazines. Content lives only in the per-section notes
+files; each month's combined file is a thin index (cover + clickable Table of
+Contents) that links into them.
 
 ## Monthly Index
 
@@ -39,22 +12,7 @@ monthly current-affairs magazines.
 |-------|---------------|
 | July 2026 | [CURRENT_AFFAIRS_JULY_2026.md](July-2026/CURRENT_AFFAIRS_JULY_2026.md) |
 
-## Section Structure
-
-Every monthly edition uses the same ten standard sections:
-
-| # | Section | Folder |
-|---|---------|--------|
-| 01 | Polity & Governance | `1-Polity-and-Governance/notes.md` |
-| 02 | International Relations | `2-International-Relations/notes.md` |
-| 03 | Economy | `3-Economy/notes.md` |
-| 04 | Security | `4-Security/notes.md` |
-| 05 | Environment | `5-Environment/notes.md` |
-| 06 | Social Issues | `6-Social-Issues/notes.md` |
-| 07 | Science & Technology | `7-Science-and-Technology/notes.md` |
-| 08 | Culture | `8-Culture/notes.md` |
-| 09 | Schemes in News | `9-Schemes-in-News/notes.md` |
-| 10 | Places in News | `10-Places-in-News/notes.md` |
+## Format
 
 Each **section file** follows the standard monthly-magazine format:
 
@@ -70,8 +28,8 @@ links work in rendered Markdown (GitHub, GitLab, VS Code preview, etc.).
 
 ## Section Index — July 2026
 
-Direct links into the section files (also reachable via the
-[monthly index](July-2026/CURRENT_AFFAIRS_JULY_2026.md)):
+Every month uses the same ten standard sections. Direct links into the section
+files (also reachable via the [monthly index](July-2026/CURRENT_AFFAIRS_JULY_2026.md)):
 
 | # | Section | Jump to section | Section notes |
 |---|---------|-----------------|---------------|
