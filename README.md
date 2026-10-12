@@ -95,6 +95,16 @@ Direct links into the section files (also reachable via the
 - To add a future month, create the folder and its section files, then run
   `python3 tools/build_month_index.py <month-folder>` to (re)generate its index.
 
+## Visuals & image credits
+
+- Diagrams are authored in **Mermaid** directly in the section files (flowcharts,
+  timelines, mind-maps) or as self-authored **SVG** assets under
+  `July-2026/assets/`; these are original and carry no third-party rights.
+- External images are included only when they are **public domain**, with the
+  source and licence given in the caption. Currently: a public-domain 1880s
+  photograph of the Dhamek Stupa, Sarnath (Wikimedia Commons) and a NASA MODIS
+  satellite image of the Strait of Hormuz (public domain, NASA).
+
 ## Reference
 
 - `6_CURRENT_AFFAIRS_JUNE_2026.pdf` (kept locally at the repository root, not

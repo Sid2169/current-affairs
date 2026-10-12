@@ -28,6 +28,16 @@ July 2026 was a defining month for India's institutions. The Election Commission
 | Intensive revision | Periodic as ordered | Door-to-door enumeration | Detailed verification of each household, `s. 21(3)` |
 | Special Intensive Revision (SIR) | As ordered (2026) | Phased, book-wise, Aadhaar-linked | Deletions + fresh inclusions; most contentious |
 
+```mermaid
+timeline
+    title SIR 2026 - key developments (July 2026)
+    5 Jul : ECI reports 20+ lakh deletions in Odisha, Phase 1
+    12 Jul : Modified Form 6 with SIR Declaration notified
+    17 Jul : Supreme Court - roll removal is not loss of citizenship
+    28 Jul : CEC work-allocation order amid an internal rift
+    Late Jul : 23 Opposition parties write to the Chief Justice
+```
+
 **Key developments in July 2026**
 - **Odisha deletions:** The first phase of the State's SIR struck off more than 20 lakh names, mostly as duplicate/deceased/adversely-adjudged entries; thousands of others were added. The move was challenged in the High Court and the Supreme Court.
 - **Supreme Court judgment (17 July 2026):** The Court clarified that entry in, or removal from, an electoral roll is not proof of citizenship — only the Centre or a competent authority under the **Citizenship Act, 1955** can determine citizenship. It also instructed that owners of deleted entries be given a hearing and that the statutory revisory procedure under `ss. 22–23` of the R.P. Act, 1950 be strictly followed.

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440" role="img" aria-label="RBI Liquidity Adjustment Facility corridor">
+  <style>
+    .title { font: 700 20px system-ui, sans-serif; fill: #1f2933; }
+    .sub   { font: 400 13px system-ui, sans-serif; fill: #52606d; }
+    .lbl   { font: 700 16px system-ui, sans-serif; fill: #ffffff; }
+    .rate  { font: 700 15px system-ui, sans-serif; fill: #1f2933; }
+    .note  { font: 400 12px system-ui, sans-serif; fill: #52606d; }
+  </style>
+  <rect x="0" y="0" width="760" height="440" fill="#ffffff"/>
+  <text class="title" x="40" y="44">RBI Liquidity Adjustment Facility (LAF) corridor</text>
+  <text class="sub" x="40" y="68">Instalment as reported for July 2026 &#183; Policy repo rate held at 5.25%</text>
+
+  <rect x="120" y="100" width="520" height="64" rx="8" fill="#b91c1c"/>
+  <text class="lbl" x="150" y="139">Marginal Standing Facility (MSF) / Bank Rate</text>
+  <text class="rate" x="560" y="139" text-anchor="end" fill="#ffffff">5.50%  &#8212; upper bound</text>
+
+  <rect x="120" y="188" width="520" height="72" rx="8" fill="#0f766e"/>
+  <text class="lbl" x="150" y="230">Repo Rate (policy rate)</text>
+  <text class="rate" x="560" y="230" text-anchor="end" fill="#ffffff">5.25%</text>
+
+  <rect x="120" y="284" width="520" height="64" rx="8" fill="#1d4ed8"/>
+  <text class="lbl" x="150" y="323">Standing Deposit Facility (SDF)</text>
+  <text class="rate" x="560" y="323" text-anchor="end" fill="#ffffff">5.00%  &#8212; lower bound</text>
+
+  <line x1="104" y1="132" x2="104" y2="316" stroke="#9aa5b1" stroke-width="2"/>
+  <path d="M104 132 l-6 10 h12 z" fill="#9aa5b1"/>
+  <path d="M104 316 l-6 -10 h12 z" fill="#9aa5b1"/>
+
+  <text class="note" x="120" y="380">Absorption (surplus liquidity) is parked at the SDF floor; banks borrow at the MSF ceiling.</text>
+  <text class="note" x="120" y="400">The repo rate sits between the two, steering the weighted-average call rate within the corridor.</text>
+  <text class="note" x="120" y="424">Source: RBI monetary policy statement (July 2026). Diagram compiled for revision.</text>
+</svg>

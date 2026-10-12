@@ -27,6 +27,10 @@ The Reserve Bank of India has kept the benchmark policy repo rate unchanged at *
 **Way Forward**
 - Continued data-dependent calibration, with emphasis on anchoring inflation expectations while nurturing the growth recovery.
 
+![RBI Liquidity Adjustment Facility corridor: MSF 5.50%, repo 5.25%, SDF 5.00%](../assets/rbi-laf-corridor.svg)
+
+*Figure: RBI Liquidity Adjustment Facility corridor as of July 2026 (self-authored diagram).*
+
 *Source: RBI, Reuters, 27 Jul 2026*
 
 <a id="sec-3-2"></a>

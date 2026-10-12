@@ -55,6 +55,14 @@ July 2026 was one of the most crowded months in recent Indian diplomacy: the 16t
 | **Australia** (8–9 Jul) | **3rd India–Australia Annual Leaders' Summit**; agreement on **uranium exports for Indian civil-nuclear programme** and civilian nuclear cooperation; push to conclude the **India–Australia (CECA)** by 2027; maritime security and **critical minerals** cooperation |
 | **New Zealand** (10–11 Jul) | Declaration of an **India–New Zealand strategic partnership** announced in Auckland; **'Roadmap to 2030'** for ties; trade target of about **₹35,000 crore (≈ NZ$7 billion) by 2030**; FTA negotiations to be pursued |
 
+```mermaid
+timeline
+    title PM Modi's three-nation visit, 6-11 July 2026
+    6-7 Jul : Indonesia - BrahMos and Astra deals, critical-minerals pact
+    8-9 Jul : Australia - uranium for the civil-nuclear programme, CECA push
+    10-11 Jul : New Zealand - strategic partnership and Roadmap to 2030
+```
+
 - **Indonesia:** The BrahMos deal makes Indonesia the first Southeast Asian operator of the missile, deepening India's **Act-East** footprint in the Java-Sumatra maritime domain; the critical-minerals pact supports India's electric-vehicle and battery value chains.
 - **Australia:** The uranium arrangement operationalises the **2014 India–Australia Civil Nuclear Cooperation Agreement**; the CECA push builds on the ECTA (2022) to cover goods, services and new areas. Australia, India's **Quad** partner, is emerging as a security counterweight in the Indo-Pacific.
 - **New Zealand:** The visit was the **first by an Indian PM in about 40 years**; the strategic partnership and Roadmap extend India's Pacific engagement beyond Fiji and the Pacific Islands Forum, and open up dairy, defence and STEM cooperation.

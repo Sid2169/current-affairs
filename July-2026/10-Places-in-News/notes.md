@@ -111,6 +111,10 @@ The places in the news in July 2026 range from a newly designated UNESCO World H
 - **Why in News?** Through July 2026, the **2026 Strait of Hormuz crisis** disrupted shipping, with tankers attacked and vessels seized. On **15 July 2026**, India's **DG Shipping advised against deploying Indian sailors** on vessels transiting the Strait after **two Indian seafarers were killed**; on **24 July 2026**, the LPG tanker **Disha**, carrying 28 Indian nationals, was attacked but all crew were reported safe.
 - **Significance:** The Strait of Hormuz is the world's most important **oil chokepoint**, through which a large share of global crude and LNG moves. The crisis directly affects India's **energy security** and the safety of Indian seafarers.
 
+![Satellite image of the Strait of Hormuz (NASA MODIS, 2 December 2020; public domain)](../assets/strait-of-hormuz-modis-2020.jpg)
+
+*Figure: The Strait of Hormuz separating Iran from the Arabian Peninsula (NASA MODIS true-colour image, 2 December 2020; public domain).*
+
 <a id="sec-10-16"></a>
 ### 10.16. ODESA (Ukraine)
 - **Location:** A major Black Sea port city in southern Ukraine.

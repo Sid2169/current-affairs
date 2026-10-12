@@ -57,6 +57,20 @@ The **Defence Acquisition Council (DAC)**, in a meeting on **3 July 2026**, gran
 - An **Active Protection System (APS)** for armoured vehicles.
 - **Jet-powered kamikaze drones**.
 
+```mermaid
+mindmap
+  root((DAC approvals Rs 52,000 crore))
+    Air defence
+      MRSAM
+      V-SHORADS
+    Anti-UAV
+      AKASH TARANG electronic warfare
+      Kamikaze drones
+    Anti-armour
+      MPATGM
+      Active Protection System
+```
+
 **Significance**
 - Addresses emerging threats, especially from unmanned platforms.
 - Reinforces the government's push for indigenous defence manufacturing.

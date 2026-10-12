@@ -24,6 +24,15 @@ Repeated episodes of extreme monsoon downpours during July 2026 across Uttarakha
 | Convective buildup | A single, deep cumulonimbus cloud stalls over a small area, releasing its entire water content in a short burst. |
 | Cascade effect | Saturated slopes, deforested catchments and unplanned construction convert rainfall into violent surface runoff. |
 
+```mermaid
+flowchart TD
+    A["Moisture-laden monsoon air"] --> B["Steep slope: orographic uplift"]
+    B --> C["Rapid cooling and condensation"]
+    C --> D["Deep cumulonimbus stalls over 20-30 sq km"]
+    D --> E["100 mm or more rain in one hour"]
+    E --> F["Flash floods, debris flows and landslides"]
+```
+
 **Why the Himalayas are Vulnerable**
 
 - **Steep, fragile terrain** with thin soils and high gradients accelerates runoff and debris movement.

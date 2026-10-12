@@ -31,6 +31,14 @@ July 2026 was dominated by two threads on the governance front — the operation
 | Beneficiaries | Rural households; at least one adult member per household volunteering for unskilled manual work |
 | Key Benefits | Assured wage employment, enhanced livelihood security, and creation of durable rural assets |
 
+```mermaid
+flowchart TD
+    A["MGNREGA, 2005"] --> B["Repealed on commencement of VB-G RAM G Act, 2025"]
+    B --> C["In force from 1 July 2026"]
+    C --> D["First instalment of Rs 25,863 crore released to States on 5 July 2026"]
+    D --> E["Assured wage employment and durable rural assets"]
+```
+
 *Source: PIB; Ministry of Rural Development, July 2026*
 
 ---

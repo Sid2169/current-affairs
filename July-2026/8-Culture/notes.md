@@ -9,6 +9,10 @@
 **Why in News?**  
 The ancient Buddhist site of Sarnath in Varanasi, Uttar Pradesh, was inscribed on the UNESCO World Heritage List during the 48th session of the World Heritage Committee held in Busan, South Korea, in July 2026.
 
+![Dhamek Stupa, Sarnath (public-domain photograph, 1880s; Wikimedia Commons)](../assets/dhamek-stupa-sarnath-1880s.jpg)
+
+*Figure: The Dhamek Stupa at Sarnath, one of the two components of the inscribed property (public-domain photograph, 1880s; source: Wikimedia Commons).*
+
 **About Sarnath**
 
 - **Historical Significance:** Sarnath is the site where Lord Buddha delivered his first sermon, known as the "Turning of the Wheel of the Law" (Dharmachakra pravartana), after attaining enlightenment. This event led to the formation of the Buddhist Sangha.
@@ -21,6 +25,14 @@ The ancient Buddhist site of Sarnath in Varanasi, Uttar Pradesh, was inscribed o
 
 - **Criterion (iii):** Bears witness to the enduring spiritual significance of Sarnath as one of the four principal destinations of Buddhist pilgrimage, demonstrated by the large number of religious buildings and monuments constructed and rebuilt over centuries.
 - **Criterion (vi):** Directly associated with events of outstanding significance to Buddhism—Buddha's first sermon and the meeting of his first disciples.
+
+```mermaid
+flowchart LR
+    A["Tentative List, 1998"] --> B["State Party nomination dossier"]
+    B --> C["Advisory-body evaluation"]
+    C --> D["World Heritage Committee decision"]
+    D --> E["Inscribed on the World Heritage List, 25 July 2026"]
+```
 
 **Significance**
 

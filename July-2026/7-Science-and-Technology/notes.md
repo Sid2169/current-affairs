@@ -97,6 +97,14 @@ The Central Drugs Standard Control Organisation (CDSCO) granted marketing author
 - **Priority on Safety:** Emphasis on crew escape systems, human-centric systems, and overall mission readiness before crewed flights.
 - *Source: The Indian Express, 28 Jun 2026*
 
+```mermaid
+timeline
+    title ISRO - near-term milestones (from July 2026 statements)
+    18 Jul 2026 : Vikram-1 (Skyroot) maiden orbital launch
+    FY 2026-27 : Target of at least seven launches, second spaceport at Kulasekarapattinam
+    Q3 2027 : First uncrewed Gaganyaan test flight (indicative)
+```
+
 <a id="sec-7-4-4"></a>
 ### 7.4.4. INDIGENOUS CRYSTAL TOXIN GENE TO COMBAT PINK BOLLWORM
 - **Discovery:** ICAR-Sugarcane Breeding Institute (SBI), Coimbatore, isolated a novel Bacillus thuringiensis crystal toxin gene effective against pink bollworm resistant to Bollgard II cotton.
