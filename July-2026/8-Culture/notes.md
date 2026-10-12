@@ -1,5 +1,9 @@
+<a id="sec-8"></a>
 # 8. CULTURE
 
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)
+
+<a id="sec-8-1"></a>
 ## 8.1. Sarnath Inscribed as UNESCO World Heritage Site
 
 **Why in News?**  
@@ -32,6 +36,7 @@ The ancient Buddhist site of Sarnath in Varanasi, Uttar Pradesh, was inscribed o
 
 *Source: UNESCO, PIB, The Hindu, The Indian Express, 25-26 Jul 2026*
 
+<a id="sec-8-2"></a>
 ## 8.2. Gyan Bharatam Mission Accelerates Manuscript Digitisation
 
 **Why in News?**  
@@ -60,8 +65,10 @@ In July 2026, the Ministry of Culture convened the National Digitization Drive W
 
 *Source: PIB, Ministry of Culture, Hindustan Times, 18 Jul 2026*
 
+<a id="sec-8-3"></a>
 ## 8.3. NEWS IN SHORTS
 
+<a id="sec-8-3-1"></a>
 ### 8.3.1. Jodhpuri Mojari Secures GI Tag
 
 - **Recognition:** The nearly 200-year-old Jodhpuri Mojari leather footwear received a Geographical Indication (GI) tag in July 2026.
@@ -69,12 +76,14 @@ In July 2026, the Ministry of Culture convened the National Digitization Drive W
 - **Context:** GI certificate handed over to Jodhpur Handicraft Exporters Association and Gram Vikas Seva Sansthan.
 *Source: The Indian Express, 11-13 Jul 2026*
 
+<a id="sec-8-3-2"></a>
 ### 8.3.2. Karnataka Products Set for GI Recognition
 
 - **New Applications:** NABARD extended support for GI registration of Tiptur coconut, Hoysala-style stone art, Sanikatte salt, and Kunbi Mudli (a climate-resilient taro variety).
 - **Broader Efforts:** Part of ongoing initiatives to strengthen value chains, branding, marketing, and enterprise development for GI products in Karnataka.
 *Source: The Hindu, 7 Jul 2026*
 
+<a id="sec-8-3-3"></a>
 ### 8.3.3. Meghalaya Launches Mission Golden Spice for Lakadong Turmeric
 
 - **Project:** ₹175.45 crore convergence-led "Mission Golden Spice – Integrated Lakadong Turmeric Value Chain Enhancement Project" launched for 2025–2030.
@@ -82,6 +91,7 @@ In July 2026, the Ministry of Culture convened the National Digitization Drive W
 - **Objectives:** Expand cultivation, reduce post-harvest losses, strengthen processing/cold chain, enhance branding and GI monetisation, and improve farmer incomes.
 *Source: PIB, MDoNER, 21 Jul 2026*
 
+<a id="sec-8-3-4"></a>
 ### 8.3.4. Unjha Cumin and Fennel Receive GI Tags
 
 - **Recognition:** Unjha Cumin and Unjha Fennel (North Gujarat) awarded GI tags, certifying their distinct geographical identity and quality.
@@ -89,12 +99,14 @@ In July 2026, the Ministry of Culture convened the National Digitization Drive W
 - **Collaborative Effort:** Supported by APMC Unjha, SDAU, EDII, and State/Central agencies.
 *Source: The Economic Times, 14 Jul 2026*
 
+<a id="sec-8-3-5"></a>
 ### 8.3.5. Madhya Pradesh Secures GI Tags for 12 Horticultural Crops
 
 - **Milestone:** Twelve horticultural crops from Madhya Pradesh received GI recognition simultaneously—a first for any Indian state for such a cluster.
 - **Significance:** Highlights agro-climatic diversity and aims to enhance market credibility, traceability, and value realisation for farmers.
 *Source: Daily Pioneer, 26 Jul 2026*
 
+<a id="sec-8-3-6"></a>
 ### 8.3.6. NABARD Supports 28 New GI Registrations
 
 - **Update:** With 28 new GI registrations, NABARD's total supported GI products reached 176 (as reported in July 2026).
@@ -102,6 +114,7 @@ In July 2026, the Ministry of Culture convened the National Digitization Drive W
 - **Impact:** Benefits over 13,000 artisans and supports creation of over 50,000 jobs through strengthened GI value chains.
 *Source: Fortune India, 11 Jul 2026*
 
+<a id="sec-8-3-7"></a>
 ### 8.3.7. Ministry of Culture Funds Palm-Leaf Manuscript Museum
 
 - **Grant:** Ministry of Culture released ₹5 crore under the Museum Grant Scheme for a new building for Andhra Sahitya Parishad Government Museum and Research Institute, Kakinada.
@@ -109,6 +122,7 @@ In July 2026, the Ministry of Culture convened the National Digitization Drive W
 - **Funding Pattern:** Total project cost ₹10 crore under 80:20 (Centre:State).
 *Source: The Hindu, 14 Jul 2026*
 
+<a id="sec-8-3-8"></a>
 ### 8.3.8. Warangal Initiates Mapping of Protected Monument Lands
 
 - **Exercise:** Warangal district administration launched demarcation of lands under ASI and Telangana Department of Heritage to prevent encroachments.
@@ -116,14 +130,18 @@ In July 2026, the Ministry of Culture convened the National Digitization Drive W
 - **Heritage Wealth:** Erstwhile Warangal district has 32 State-protected monuments and three ASI-protected monuments, including the UNESCO World Heritage Site of Ramappa Temple.
 *Source: The Hindu, 30 Jul 2026*
 
+<a id="sec-8-3-9"></a>
 ### 8.3.9. Sarnath Nomination Journey Culminates in UNESCO Inscription
 
 - **Timeline:** Sarnath entered UNESCO Tentative List on 3 July 1998; inscription achieved during 48th World Heritage Committee session in Busan, July 2026.
 - **Process:** Rigorous 18-month evaluation involving ICOMOS technical reviews and site mission prior to final committee decision.
 *Source: PIB, The Indian Express, 25-26 Jul 2026*
 
+<a id="sec-8-3-10"></a>
 ### 8.3.10. India Expands GI Portfolio with Spices and Handicrafts
 
 - **Recent Tags:** Khurasani Imli of Mandu (Madhya Pradesh), Chandannagar's Jolbhora Sandesh, Janai's Manohara (West Bengal), and various Jharkhand crafts (Bhua/Bagaiya silk, Munda jewellery, bamboo craft) received GI recognition in recent months.
 - **Policy Support:** DPIIT and CIPAM continue to drive GI promotion under the National IPR Policy 2016.
 *Source: The Indian Express, 11-13 Jul 2026*
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)

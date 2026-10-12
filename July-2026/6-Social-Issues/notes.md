@@ -1,5 +1,9 @@
+<a id="sec-6"></a>
 # 6. SOCIAL ISSUES
 
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)
+
+<a id="sec-6-1"></a>
 ## 6.1. MAHARASHTRA GIVES LEGAL RECOGNITION TO WOMEN FARMERS
 
 **Why in News?**
@@ -43,6 +47,7 @@ Maharashtra became the **first Indian state to legally recognise women farmers**
 
 ---
 
+<a id="sec-6-2"></a>
 ## 6.2. THE UNFPA DEMOGRAPHIC FUTURES SURVEY 2026
 
 **Why in News?**
@@ -78,6 +83,7 @@ The **United Nations Population Fund (UNFPA)** released **Lives, Choices and Fut
 
 ---
 
+<a id="sec-6-3"></a>
 ## 6.3. INDIA'S GEN Z AND UNEMPLOYMENT
 
 **Why in News?**
@@ -109,6 +115,7 @@ Working-age individuals aged **15 to 26 years** (born 1997–2012), representing
 
 ---
 
+<a id="sec-6-4"></a>
 ## 6.4. THE DRAFT NATIONAL HEALTH RESEARCH POLICY, 2026
 
 **Why in News?**
@@ -146,8 +153,10 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 ---
 
+<a id="sec-6-5"></a>
 ## 6.5. NEWS IN SHORTS
 
+<a id="sec-6-5-1"></a>
 ### 6.5.1. PERFORMANCE GRADING INDEX (PGI) 2.0
 
 - The **Department of School Education & Literacy** released PGI reports for **States/UTs (PGI-S)** and **Districts (PGI-D)** for 2025–26.
@@ -158,6 +167,7 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 *Source: PIB, 9 July 2026*
 
+<a id="sec-6-5-2"></a>
 ### 6.5.2. NANDAN NILEKANI-LED TASK FORCE ON EXAMINATION REFORMS
 
 - The Prime Minister announced a **high-powered task force on examination reforms**, chaired by **Nandan Nilekani** (co-founder, Infosys).
@@ -166,6 +176,7 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 *Source: PIB, 27 July 2026*
 
+<a id="sec-6-5-3"></a>
 ### 6.5.3. PUBLIC EXAMINATIONS (PREVENTION OF UNFAIR MEANS) AMENDMENT BILL, 2026
 
 - Introduced in the **Lok Sabha**, it overhauls the **Public Examinations (Prevention of Unfair Means) Act, 2024**.
@@ -175,6 +186,7 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 *Source: PIB, 28 July 2026*
 
+<a id="sec-6-5-4"></a>
 ### 6.5.4. INDIA'S FIRST APPROVED DENGUE VACCINE (QDENGA)
 
 - The **Central Drugs Standard Control Organisation (CDSCO)** granted marketing authorisation for **Qdenga®**, India's first approved dengue vaccine.
@@ -184,6 +196,7 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 *Source: PIB, 22 July 2026*
 
+<a id="sec-6-5-5"></a>
 ### 6.5.5. CYCLOSPORIASIS
 
 - The **US CDC** issued a health advisory following a widespread **cyclosporiasis** outbreak across **34 states**.
@@ -193,6 +206,7 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 *Source: The Hindu, 16 July 2026*
 
+<a id="sec-6-5-6"></a>
 ### 6.5.6. THE KORKU COMMUNITY
 
 - The **Korku** are a **particularly vulnerable tribal group (PVTG)** concentrated in southern Madhya Pradesh (Khandwa, Burhanpur, Betul, Chhindwara) and adjoining Maharashtra near **Melghat Tiger Reserve**.
@@ -203,6 +217,7 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 *Source: Down To Earth, 16 July 2026*
 
+<a id="sec-6-5-7"></a>
 ### 6.5.7. THE DWEEPTI YOJANA
 
 - **Chhattisgarh** launched the **DWEEPTI Yojana** (Decentralised Women Empowerment on Energy and Policy for Transformative Inclusion) — the first Indian state to adopt a **women-led distributed renewable energy policy**.
@@ -213,6 +228,7 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 *Source: Insights, 28 July 2026*
 
+<a id="sec-6-5-8"></a>
 ### 6.5.8. AI & INDIA'S INFORMAL WOMEN WORKERS
 
 - About **82% of employed women** in India work in the **informal sector**; per **PLFS 2023–24**, **76.9% of rural working women** are in agriculture.
@@ -223,6 +239,7 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 *Source: The Hindu, 28 July 2026*
 
+<a id="sec-6-5-9"></a>
 ### 6.5.9. THE CORPORATE MITRA SCHEME
 
 - A central initiative of the **Ministry of Corporate Affairs (MCA)** to create a certified cadre of para-professionals called **Corporate Mitras**.
@@ -232,6 +249,7 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 
 *Source: PIB, 27 July 2026*
 
+<a id="sec-6-5-10"></a>
 ### 6.5.10. THE ATMANIRBHAR PANCHAYAT PROGRAMME
 
 - Launched by the **Ministry of Panchayati Raj** under the **Rashtriya Gram Swaraj Abhiyan (RGSA)**, along with the **SAMARTH Panchayat Portal**.
@@ -242,3 +260,5 @@ The Centre's **Department of Health Research** released the **Draft National Hea
 *Source: The New Indian Express, 28 July 2026*
 
 *Source note: This section compiles verified July 2026 social-sector developments drawn from PIB, UNFPA, PLFS, the Department of Health Research and leading national dailies.*
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)

@@ -1,9 +1,13 @@
+<a id="sec-2"></a>
 # 2. INTERNATIONAL RELATIONS
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)
 
 July 2026 was one of the most crowded months in recent Indian diplomacy: the 16th India–Japan Annual Summit in New Delhi, a six-day, three-nation visit by the Prime Minister to Indonesia, Australia and New Zealand, a six-country tour by the External Affairs Minister that saw India formally launch its campaign for a **2028–29 non-permanent seat on the UN Security Council**, and a calibrated move towards normalising ties with China through the resumption of border trade. The items below cover these headliners and the shorter developments that filled the month.
 
 ---
 
+<a id="sec-2-1"></a>
 ## 2.1. INDIA–JAPAN 16TH ANNUAL SUMMIT (NEW DELHI, 1–3 JULY 2026)
 
 **Why in News?**
@@ -36,6 +40,7 @@ July 2026 was one of the most crowded months in recent Indian diplomacy: the 16t
 
 ---
 
+<a id="sec-2-2"></a>
 ## 2.2. PM MODI'S THREE-NATION VISIT: INDONESIA, AUSTRALIA AND NEW ZEALAND (6–11 JULY 2026)
 
 **Why in News?**
@@ -63,6 +68,7 @@ July 2026 was one of the most crowded months in recent Indian diplomacy: the 16t
 
 ---
 
+<a id="sec-2-3"></a>
 ## 2.3. INDIA–CHINA: BORDER TRADE RESUMES, BUT BORDER TRUST REMAINS BRITTLE
 
 **Why in News?**
@@ -92,56 +98,66 @@ July 2026 was one of the most crowded months in recent Indian diplomacy: the 16t
 
 ---
 
+<a id="sec-2-4"></a>
 ## 2.4. NEWS IN SHORTS
 
+<a id="sec-2-4-1"></a>
 ### 2.4.1. EAM JAISHANKAR'S MULTI-NATION TOUR AND INDIA'S UNSC 2028–29 CAMPAIGN
 - External Affairs Minister S. Jaishankar began a **six-nation tour on 5 July 2026**, visiting **Qatar (5–6 July), Bahrain (6–7 July), Kuwait, Oman**, and then **New York** for a **13 July 2026** engagement where **India formally launched its campaign for a non-permanent (elected) seat on the UN Security Council for the 2028–29 term**.
 - The campaign is framed around the slogan **"Norms, Trust and Integrity"**, with India also pressing for **reformed multilateralism** and an expanded, more representative Security Council.
 - Gulf leg outcomes included deeper energy, investment, diaspora-welfare and defence cooperation with the four GCC neighbours.
 - *Source: MEA; The Hindu / New Indian Express, 5–13 Jul 2026*
 
+<a id="sec-2-4-2"></a>
 ### 2.4.2. INDIA–EU STRATEGIC ENGAGEMENT IN BRUSSELS
 - On **15 July 2026**, EAM Jaishankar and Commerce Minister **Piyush Goyal** met **European Council President Antonio Costa** in Brussels, resuming high-level India–EU engagement.
 - Talks focused on the **India–EU Free Trade Agreement** (resumed in 2025), digital and AI cooperation, green transition, and the **India–Middle East–Europe Economic Corridor**.
 - The meeting came amid global tariffs friction and reinforced the EU's view of India as a key partner for diversification of supply chains.
 - *Source: MEA; European External Action Service, 15 Jul 2026*
 
+<a id="sec-2-4-3"></a>
 ### 2.4.3. INDIA–BANGLADESH: BRICS INVITE AND THE TIES-RESET AGENDA
 - India invited **Bangladesh Prime Minister Tarique Rahman as a special guest** at the **18th BRICS Summit** to be hosted by India (New Delhi, September 2026) — extending an olive branch amid strained bilateral ties.
 - In a **Rajya Sabha reply on 31 July 2026**, the government reiterated that **Sheikh Hasina, residing in India, is not permitted to use Indian soil for political activity** — a key clarification following the 2024 exodus of the deposed Bangladeshi PM.
 - The developing relationship sees India balancing **stability, connectivity (Teesta, trade), and neighbourhood-solidarity** while Dhaka recalibrates its ties with Beijing.
 - *Source: MEA; Lok Sabha/Rajya Sabha; Daily Star, Jul 2026*
 
+<a id="sec-2-4-4"></a>
 ### 2.4.4. INDIA–KYRGYZSTAN: MANAS–MAHABHARATA CIVILISATIONAL STUDIES CENTRE
 - On **7–8 July 2026**, the **Manas–Mahabharata Civilisational Studies Centre** was launched in **Bishkek, Kyrgyzstan**, alongside the release of the **Kyrgyz epic 'Manas' translated into Hindi**.
 - The Centre institutionalises cultural cooperation linking the Central Asian and Indian epic traditions — part of India's **Connect Central Asia** policy and its outreach to Central Asian republics.
 - It follows India's earlier cultural-diplomacy footprints in the region (e.g., the Afghanistan **Bamiyan Buddhas'** conservation and Buddhist circuit development).
 - *Source: PIB; MEA, 7–8 Jul 2026*
 
+<a id="sec-2-4-5"></a>
 ### 2.4.5. INDIA–PANAMA: FIRST-EVER FM VISIT
 - On **19 July 2026**, Panamanian Foreign Minister **Javier Eduardo Martínez-Acha** visited India — the **first visit of a Panamanian FM to India** in the relationship's history.
 - Discussions covered maritime connectivity (the **Panama Canal**), Latin American trade, and India's engagement with Latin America and the Caribbean, where Indian investments span IT, pharma and agriculture.
 - The visit signals India's deliberate courting of **Central America** as part of its global South outreach beyond the traditional Asian/African lanes.
 - *Source: News On AIR; MEA, 19 Jul 2026*
 
+<a id="sec-2-4-6"></a>
 ### 2.4.6. PAHALGAM TERROR ATTACK: NIA CHARGESHEET NAMES HAFIZ SAEED
 - On **6 July 2026**, the **NIA filed a supplementary chargesheet** in the **2025 Pahalgam terror attack** case (April 2025; 34+ killed), naming **Lashkar-e-Taiba founder Hafiz Saeed and TRF** operatives, and detailing a **Pakistan-based conspiracy** with cross-border drone logistic trails.
 - On **14 July 2026**, the **J&K NIA special court issued a non-bailable warrant** against Hafiz Saeed on the chargesheet, setting the stage for trial-in-absentia proceedings.
 - The legal follow-through supports India's broader counter-terror diplomatic line — the **BRICS New Delhi Declaration (Sept 2026)** later condemned the attack and rejected double standards on terrorism.
 - *Source: The Hindu; News On AIR; The Print, 6 & 14 Jul 2026*
 
+<a id="sec-2-4-7"></a>
 ### 2.4.7. QUAD FOREIGN MINISTERS' MEETING AND ASEAN POST-MINISTERIAL CONFERENCE (MANILA)
 - On **22–24 July 2026**, EAM Jaishankar participated in the **ASEAN Post-Ministerial Conference (PMC)** and the **Quad Foreign Ministers' Meeting** in **Manila, Philippines**.
 - He met **US Secretary of State Marco Rubio** and, on the margins, **Chinese FM Wang Yi** (see main item 2.3) — a useful snapshot of India's "multi-alignment".
 - The Quad ministerial underscored cooperation on maritime domain awareness, resilient supply chains and counter-terrorism across the Indo-Pacific.
 - *Source: MEA; ANI; US State Department, 22–24 Jul 2026*
 
+<a id="sec-2-4-8"></a>
 ### 2.4.8. INDIA'S BRICS PRESIDENCY AND THE 18TH SUMMIT
 - India holds the **BRICS chairmanship in 2026**, and preparations advanced through July for the **18th BRICS Summit in New Delhi in September 2026**.
 - India invited **Bangladesh (PM Tarique Rahman)** as a special guest and signalled outreach to the expanded **BRICS partner-country** tier, balancing the China–Russia tilt with India's Global South agenda.
 - Themes under the Delhi presidency include **AI governance, reformed multilateralism, UNSC reform and counter-terrorism**, with the **BRICS Development Finance partnership** a continuing plank.
 - *Source: MEA; PIB; WION & ET, Jul 2026*
 
+<a id="sec-2-4-9"></a>
 ### 2.4.9. AREAS IN NEWS (JULY 2026)
 - **Nathu La & Shipki La (Sikkim & Himachal Pradesh):** Border trade with China to be **reopened from 1 August 2026** after the 2020 suspension — a key test of the bilateral normalisation.
 - **Lipulekh (Uttarakhand):** Third border-trade point with China, reopened as part of the same decision; straddles the Kailash-Mansarovar route.
@@ -150,3 +166,5 @@ July 2026 was one of the most crowded months in recent Indian diplomacy: the 16t
 - **Brussels (Belgium):** India–EU high-level talks (15 July 2026) with European Council President Costa.
 - **New York (USA):** Launch of **India's UNSC 2028–29 campaign** (13 July 2026).
 - *Source: Compiled from MEA/PIB releases, July 2026*
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)

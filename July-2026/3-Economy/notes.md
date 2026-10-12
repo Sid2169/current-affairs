@@ -1,5 +1,9 @@
+<a id="sec-3"></a>
 # 3. ECONOMY
 
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)
+
+<a id="sec-3-1"></a>
 ## 3.1. RBI MONETARY POLICY AND THE GROWTH-INFLATION BALANCE
 
 **Why in News?**
@@ -25,6 +29,7 @@ The Reserve Bank of India has kept the benchmark policy repo rate unchanged at *
 
 *Source: RBI, Reuters, 27 Jul 2026*
 
+<a id="sec-3-2"></a>
 ## 3.2. SEMICON 2.0 — CABINET APPROVES EXPANDED SEMICONDUCTOR MISSION
 
 **Why in News?**
@@ -50,6 +55,7 @@ The Union Cabinet approved **"Semicon 2.0"** on **15 July 2026**, a substantiall
 
 *Source: PIB, Cabinet, 15 Jul 2026*
 
+<a id="sec-3-3"></a>
 ## 3.3. INDIA–UK CETA AND SOCIAL SECURITY AGREEMENT ENTER INTO FORCE
 
 **Why in News?**
@@ -74,6 +80,7 @@ The **India–UK Comprehensive Economic and Trade Agreement (CETA)**, along with
 
 *Source: PIB, 15 Jul 2026*
 
+<a id="sec-3-4"></a>
 ## 3.4. IMF WORLD ECONOMIC OUTLOOK UPDATE — JULY 2026
 
 **Why in News?**
@@ -97,8 +104,10 @@ The IMF released its **World Economic Outlook (WEO) Update** on **8 July 2026**,
 
 *Source: IMF WEO Update, 8 Jul 2026*
 
+<a id="sec-3-5"></a>
 ## 3.5. NEWS IN SHORTS
 
+<a id="sec-3-5-1"></a>
 ### 3.5.1. GST COLLECTIONS CROSS ₹2.11 LAKH CRORE IN JULY 2026
 - Gross GST revenue for July 2026 stood at **₹2,11,205 crore**, registering **15.4% year-on-year growth**.
 - The mop-up comprised **CGST of ₹39,835 crore** and **SGST of ₹47,881 crore**, among other heads.
@@ -106,6 +115,7 @@ The IMF released its **World Economic Outlook (WEO) Update** on **8 July 2026**,
 - Sustained growth in GST revenue is a key fiscal cushion for the Centre and States.
 - *(Source: GST Portal / Ministry of Finance, Jul–Aug 2026)*
 
+<a id="sec-3-5-2"></a>
 ### 3.5.2. UPI SETS NEW RECORD IN JULY 2026
 - UPI processed a record **23.66 billion transactions** worth **₹29.88 trillion** in July 2026.
 - Volumes rose about **4.1% month-on-month** and **22% year-on-year**.
@@ -114,11 +124,13 @@ The IMF released its **World Economic Outlook (WEO) Update** on **8 July 2026**,
 - Reflects deepening digital-payment penetration across the country.
 - *(Source: NPCI / Business Standard, Aug 2026)*
 
+<a id="sec-3-5-3"></a>
 ### 3.5.3. FOREX RESERVES
 - India's foreign-exchange reserves stood at **US$676,237 million** for the week ended **17 July 2026**.
 - Adequate reserves provide an import cover and shield against external shocks.
 - *(Source: RBI Weekly Statistical Supplement, 24 Jul 2026)*
 
+<a id="sec-3-5-4"></a>
 ### 3.5.4. RETAIL INFLATION (CPI) FOR JULY 2026
 - Headline **CPI inflation** (new base 2024=100) stood at **4.45%** in July 2026.
 - Rural inflation was **4.84%**; urban inflation **3.96%**.
@@ -126,6 +138,7 @@ The IMF released its **World Economic Outlook (WEO) Update** on **8 July 2026**,
 - Final June 2026 CPI was 4.38% with CFPI at 5.32%.
 - *(Source: MoSPI, Aug 2026)*
 
+<a id="sec-3-5-5"></a>
 ### 3.5.5. EXTERNAL TRADE DATA (JUNE 2026)
 - Total exports in June 2026 were **US$73.45 billion (+9.48%)**; total imports **US$88.76 billion**.
 - Merchandise exports stood at US$40.41 billion; merchandise imports US$70.84 billion.
@@ -133,11 +146,13 @@ The IMF released its **World Economic Outlook (WEO) Update** on **8 July 2026**,
 - The monthly trade deficit was **US$15.32 billion**.
 - *(Source: Ministry of Commerce & Industry, Jul 2026)*
 
+<a id="sec-3-5-6"></a>
 ### 3.5.6. RBI FINANCIAL STABILITY REPORT
 - The RBI's **Financial Stability Report (30 June 2026)** concluded that banks and NBFCs remain sound, with low NPAs and strong capital buffers.
 - Highlights macro-financial resilience amid global uncertainty.
 - *(Source: RBI, Jun 2026)*
 
+<a id="sec-3-5-7"></a>
 ### 3.5.7. INDIA–US TRADE ENGAGEMENT
 - Reuters (13 July 2026) reported **no consensus** in India–US trade negotiations.
 - The US placed India in a **10% Section 301 bracket**.
@@ -145,6 +160,7 @@ The IMF released its **World Economic Outlook (WEO) Update** on **8 July 2026**,
 - Trade uncertainty persists over tariff structure.
 - *(Source: Reuters, Economic Times, Jul 2026)*
 
+<a id="sec-3-5-8"></a>
 ### 3.5.8. SMALL MODULAR REACTORS (SMRs) — INDIGENOUS PUSH
 - **BARC** is developing a **220 MW Bharat Small Modular Reactor**, a **55 MW reactor** and a **High-Temperature Gas-Cooled Reactor (HTGR)** for hydrogen.
 - The Atomic Energy Commission approved a site at **Tarapur (Maharashtra)**.
@@ -152,6 +168,7 @@ The IMF released its **World Economic Outlook (WEO) Update** on **8 July 2026**,
 - SMRs offer modular, lower-cost, site-flexible clean baseload power.
 - *(Source: Reuters / PIB, 22 Jul 2026)*
 
+<a id="sec-3-5-9"></a>
 ### 3.5.9. UNION BUDGET 2026-27 — CAPEX AND FISCAL CONSOLIDATION
 - Public capital expenditure of **₹12.2 lakh crore** budgeted.
 - Real GDP for FY2025-26 estimated at **7.4%** (nominal 8%).
@@ -159,8 +176,11 @@ The IMF released its **World Economic Outlook (WEO) Update** on **8 July 2026**,
 - Focus areas include semiconductors, medical-tourism hubs, and a **High Level Committee on Banking for Viksit Bharat**.
 - *(Source: Union Budget 2026-27 / PIB, Feb 2026)*
 
+<a id="sec-3-5-10"></a>
 ### 3.5.10. 16TH FINANCE COMMISSION
 - Vertical devolution to States retained at **41%**.
 - The Commission submitted its report on **17 November 2025**.
 - **₹1.4 lakh crore** in Finance Commission Grants provided for FY2026-27.
 - *(Source: PIB)*
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)

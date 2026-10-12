@@ -1,9 +1,13 @@
+<a id="sec-1"></a>
 # 1. POLITY AND GOVERNANCE
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)
 
 July 2026 was a defining month for India's institutions. The Election Commission's Special Intensive Revision (SIR) of electoral rolls — accompanied by the deletion of lakhs of names in Odisha, fresh attestation forms and an unprecedented internal dispute within the Commission — brought questions of citizenship, franchise and institutional neutrality to the fore. Parliament, meanwhile, continued its extraordinary turn, taking up the anti-paper leak law (see Chapter 9) and a Bill to expand the Supreme Court from 34 to 38 judges amid record-low productivity. The main items and the news-in-shorts below capture the polity, governance and legal developments that mattered in the month.
 
 ---
 
+<a id="sec-1-1"></a>
 ## 1.1. SPECIAL INTENSIVE REVISION (SIR) 2026: PURGING OR PRUNING OF ELECTORAL ROLLS?
 
 **Why in News?**
@@ -46,6 +50,7 @@ July 2026 was a defining month for India's institutions. The Election Commission
 
 ---
 
+<a id="sec-1-2"></a>
 ## 1.2. SUPREME COURT (NUMBER OF JUDGES) AMENDMENT BILL, 2026
 
 **Why in News?**
@@ -82,8 +87,10 @@ July 2026 was a defining month for India's institutions. The Election Commission
 
 ---
 
+<a id="sec-1-3"></a>
 ## 1.3. NEWS IN SHORTS
 
+<a id="sec-1-3-1"></a>
 ### 1.3.1. 'VANDE MATARAM' GETS STATUTORY PROTECTION (PREVENTION OF INSULTS TO NATIONAL HONOUR AMENDMENT)
 - The **Rajya Sabha passed** the Prevention of Insults to National Honour (Amendment) Bill, 2026 on **29 July 2026** and the **Lok Sabha passed it on 30 July 2026**.
 - The Bill adds **"Vande Mataram"** to the categories of national symbols whose **insult is punishable with up to three years' imprisonment and fine** — the same protection already available for the National Flag, the State Emblem and the National Anthem under the Prevention of Insults to National Honour Act, 1971.
@@ -91,6 +98,7 @@ July 2026 was a defining month for India's institutions. The Election Commission
 - The move also raises the question of the **"national song"** — the Constitution names neither a national song nor distinguishes it from the national anthem — and linking the song's protection to the 1971 Act is Parliament's way of remedying that legal gap.
 - *Source: Rajya Sabha & Lok Sabha, 29–30 Jul 2026*
 
+<a id="sec-1-3-2"></a>
 ### 1.3.2. ONE NATION, ONE ELECTION: CONSULTATIONS, ECI READINESS AND COMMITTEE EXTENSION
 - The **Joint Committee of Parliament on the Constitution (One Nation, One Election) Bills** held State-level consultations through July: it **concluded its Goa consultations on 11 July 2026** and held further sittings in Lucknow/Uttar Pradesh on **14–15 July 2026** with MLAs, academics and officials.
 - The **ECI told the panel on 15 July 2026** that it is prepared to implement simultaneous elections once a **six-month notice** is given.
@@ -98,6 +106,7 @@ July 2026 was a defining month for India's institutions. The Election Commission
 - The ONOE reform envisages simultaneous elections to the Lok Sabha, State Assemblies and (in the second phase) local bodies, resting on **Articles 83 and 172** (duration of Houses), a proposed **"appointed date"** for mid-term polls, and **common electoral rolls** with the ECI.
 - *Source: PIB, 11 Jul 2026; News On AIR, The Hindu & Economic Times, 14–29 Jul 2026*
 
+<a id="sec-1-3-3"></a>
 ### 1.3.3. GYANVAPI, MATHURA (SHAHI IDGAH) AND SAMBHAL DISPUTES REFERRED TO SPECIAL LOK ADALAT
 - On **13 July 2026**, a bench led by the **Chief Justice of India** referred the **Gyanvapi (Varanasi), Shri Krishna Janmabhoomi–Shahi Idgah (Mathura) and Sambhal mosque** land disputes to a **Special Lok Adalat** for amicable settlement.
 - On **13–14 July**, however, **the Hindu and Muslim litigating sides both rejected** the mediation route, insisting on adjudication of their claims.
@@ -105,6 +114,7 @@ July 2026 was a defining month for India's institutions. The Election Commission
 - Related to the **Places of Worship (Special Provisions) Act, 1991** disputes, the case anchors the debate on **court-supervised mediation versus adjudication in sensitive inter-religious property suits**.
 - *Source: The Hindu, LawBeat & The Wire, 13–14 Jul 2026*
 
+<a id="sec-1-3-4"></a>
 ### 1.3.4. SUPREME COURT'S SELF-CORRECTION: REVIEW OF VACATION INTERIM ORDERS
 - On **3 July 2026**, the Supreme Court took the unusual step of **reviewing about 450 interim/ex-parte orders and observations** made during the six-week summer vacation, announcing that such orders issued without adversarial hearing would be **taken up for 'open court' hearing**.
 - The move followed criticism that vacation-bench orders had occasionally contained **unsolicited, binding observations** and directions that could not be orally varied later.
@@ -112,6 +122,7 @@ July 2026 was a defining month for India's institutions. The Election Commission
 - The development is significant for the debate on **judicial discipline, transparency and the finality of interim orders** in a right-to-fair-trial framework.
 - *Source: The Hindu; Economic Times; Bar & Bench, 3 Jul 2026*
 
+<a id="sec-1-3-5"></a>
 ### 1.3.5. APAAR IDs: SUPREME COURT ORDERS PAN-INDIA 'OPT-OUT' RULE
 - On **20–21 July 2026**, the Supreme Court directed the **CBSE and the Union Government to implement the Orissa High Court's ruling on APAAR ID consent forms across the country**, holding that **parents cannot be forced to create APAAR IDs** for their children.
 - **APAAR (Automated Permanent Academic Account Registry)** is the "One Student, One ID" digital education registry under the **National Education Policy 2020**, linked to the DigiLocker and Aadhaar ecosystem through UDISE+.
@@ -119,6 +130,7 @@ July 2026 was a defining month for India's institutions. The Election Commission
 - The ruling extends the DPDP Act, 2023's **consent-and-purpose-limitation** principles to the education sector and restores parental choice in the face of mandatory data collection.
 - *Source: The Hindu; SCC Online; Deccan Herald, 20–21 Jul 2026*
 
+<a id="sec-1-3-6"></a>
 ### 1.3.6. NEET-UG 2026: SUPREME COURT ON THE RIGHT TO PEACEFUL PROTEST
 - Amid nationwide protests over the **NEET-UG 2026 paper leak** and the police crackdown of **20 July 2026** on the "Sansad Chalo" march, the **Supreme Court heard habeas corpus and plea matters on 27–28 July 2026**.
 - The CJI-led bench upheld the **right to peaceful agitate as part of freedom of speech and expression under Article 19(1)(a)**, declaring that *"there should be no restrictions on the right to agitate"*, while restraining disproportionate state action.
@@ -127,6 +139,7 @@ July 2026 was a defining month for India's institutions. The Election Commission
 - The sequence is a model prelims case on the **constitutional hierarchy of rights, the duties of the police in public protest, and the circumstances under which criminal law discipline must yield to democratic participation**.
 - *Source: Live Law; The Hindu; Indian Express, 27–30 Jul 2026*
 
+<a id="sec-1-3-7"></a>
 ### 1.3.7. SUPREME COURT URGES STANDALONE OFFENCE FOR 'DIGITAL ARRESTS'
 - On **28 July 2026**, while hearing petitions on the menace of **'digital arrest' scams**, the Supreme Court **called for a separate, clearly defined offence and harsher punishment** for such frauds.
 - Digital arrest scams involve fraudsters posing as police/CBI/customs officials over video calls, "arresting" victims online and coercing money transfers; losses of over ₹54,000 crore have been flagged to the Court.
@@ -134,20 +147,25 @@ July 2026 was a defining month for India's institutions. The Election Commission
 - The case blends **cyber-crime policing, consumer/regulatory law and the constitutionality of banking compensation** — a recurring UPSC theme.
 - *Source: Bar & Bench; Live Law, 28 Jul 2026*
 
+<a id="sec-1-3-8"></a>
 ### 1.3.8. CENTRE WEIGHS CBFC CERTIFICATION FOR OTT FILMS AFTER 'SATLUJ' ROW
 - In mid-July 2026, following the **takedown of the film 'Satluj'** and the enforcement action against streaming platform ZEE5 over the release of the politically sensitive documentary, the **Information & Broadcasting Ministry indicated it is examining CBFC certification for OTT films**.
 - Theatrical releases are pre-censored under the **Cinematograph Act, 1952**, while OTT content is self-regulated under the **IT (Intermediary Guidelines & Digital Media Ethics Code) Rules, 2021**'s three-tier mechanism.
 - Bringing streaming films under CBFC would represent a major shift towards **uniform content regulation**, raising questions of pre-censorship and the constitutionality of content rules in the digital age.
 - *Source: The Indian Express; The New Indian Express, 10–15 Jul 2026*
 
+<a id="sec-1-3-9"></a>
 ### 1.3.9. PASSPORT FEES HIKED FROM 1 JULY 2026
 - From **1 July 2026**, the cost of a fresh Indian passport for a standard 36-page booklet rose to **₹2,500**, and the Tatkal fee to **₹5,000**, following revised tariffs notified by the Ministry of External Affairs at the end of June 2026.
 - Fees vary with the **number of pages** (36/64) and the mode (normal/Tatkal), and include consular and printing charges.
 - The hike, the first substantial revision in years, is explained by **modernisation of the Passport Seva Kendras** and secure booklet production; over **1.5 crore** passports are issued annually.
 - *Source: The Times of India; Ministry of External Affairs, 1 Jul 2026*
 
+<a id="sec-1-3-10"></a>
 ### 1.3.10. NEET-UG 2026: CBI'S ~20,000-PAGE CHARGE-SHEET
 - On **29 July 2026**, the **CBI filed a chargesheet of about 20,000 pages** before a **fast-track court** in connection with the NEET-UG 2026 paper leak, naming examinees, middlemen and accused institutions.
 - The probe, transferred to the CBI after the leak was detected in May 2026, is being fast-tracked under the provisions of the **Public Examinations (Prevention of Unfair Means) Act** and the newly passed 2026 amendment (see Chapter 9).
 - The chargesheet is expected to be followed by the framing of charges and trial within the timelines envisioned by the amended anti-paper-leak law, which mandates **completion of investigation in about two months** and **disposal of trial in a fast-track court**.
 - *Source: The Hindu; PTI, 29 Jul 2026*
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)

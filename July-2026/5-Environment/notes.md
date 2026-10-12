@@ -1,5 +1,9 @@
+<a id="sec-5"></a>
 # 5. ENVIRONMENT
 
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)
+
+<a id="sec-5-1"></a>
 ## 5.1. CLOUDBURSTS IN INDIA: RISING HIMALAYAN HYDRO-HAZARDS
 
 **Why in News?**
@@ -53,6 +57,7 @@ Cloudbursts are a potent illustration of how climate change interacts with fragi
 
 ---
 
+<a id="sec-5-2"></a>
 ## 5.2. THE DRAFT CAFE-III NORMS AND INDIA'S ROAD TO CLEANER MOBILITY
 
 **Why in News?**
@@ -107,8 +112,10 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 ---
 
+<a id="sec-5-3"></a>
 ## 5.3. NEWS IN SHORTS
 
+<a id="sec-5-3-1"></a>
 ### 5.3.1. THE NATIONAL BIODIVERSITY AUTHORITY AND THE INVASIVE ALIEN SPECIES CHALLENGE
 
 - Acting on a **suo motu proceeding by the National Green Tribunal (NGT)**, the **National Biodiversity Authority (NBA)** constituted a multi-disciplinary **Expert Committee on Invasive Alien Species**.
@@ -119,6 +126,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: News on Air, 27 July 2026*
 
+<a id="sec-5-3-2"></a>
 ### 5.3.2. INDIA'S RICE FIELDS AS GLOBAL METHANE HOTSPOTS
 
 - A study in **Nature Food** found that India's **irrigated paddy fields** are among the world's largest **methane hotspots**, emitting about **3.9 million tonnes of methane annually** — more than Germany's total yearly methane emissions.
@@ -129,6 +137,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: Nature Food, July 2026 (reported 24 July 2026)*
 
+<a id="sec-5-3-3"></a>
 ### 5.3.3. INDIAN GREY HORNBILL RETURNS TO GIR
 
 - More than **60 years** after disappearing from Gujarat's **Gir forests**, the **Indian Grey Hornbill** has re-established a presence following a reintroduction programme by the Gujarat Forest Department.
@@ -138,6 +147,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: The Hindu, 16 July 2026*
 
+<a id="sec-5-3-4"></a>
 ### 5.3.4. LESTES PALOTI: A NEW SPREADWING DAMSELFLY
 
 - A team of odonatologists described a new spreadwing damselfly, **_Lestes paloti_**, from the **Western Ghats of Kerala**.
@@ -147,6 +157,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: The Hindu, 20 July 2026*
 
+<a id="sec-5-3-5"></a>
 ### 5.3.5. ECOLOGICAL REVIVAL OF MANASBAL LAKE
 
 - Large-scale **de-weeding and channel dredging** over **70,000 sq. ft** has triggered clear signs of ecological recovery in **Manasbal Lake**, Jammu & Kashmir.
@@ -156,6 +167,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: The Hindu, 20 July 2026*
 
+<a id="sec-5-3-6"></a>
 ### 5.3.6. INDIA COMMISSIONS FIRST GEOTHERMAL WELLS AT PUGA VALLEY
 
 - Ladakh's Lieutenant Governor commissioned India's first and deepest twin **geothermal wells** at **Puga Valley** in eastern Ladakh, drilled to **1,000 metres**.
@@ -166,6 +178,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: Times of India, 18 July 2026*
 
+<a id="sec-5-3-7"></a>
 ### 5.3.7. THE PARIVARTAN SCHEME
 
 - The **Delhi Cabinet** approved implementation of the Centre's **Parivartan** scheme to replace old commercial vehicles with **BS-VI-compliant and electric** alternatives.
@@ -176,6 +189,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: PIB / Insights, 22 July 2026*
 
+<a id="sec-5-3-8"></a>
 ### 5.3.8. NAMO GREEN RAIL AND PEM FUEL CELL TECHNOLOGY
 
 - The Prime Minister flagged off India's first **hydrogen-powered train, the NaMo Green Rail**, on the **89-km Jind–Sonipat section** in Haryana.
@@ -185,6 +199,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: The Hindu, 18 July 2026*
 
+<a id="sec-5-3-9"></a>
 ### 5.3.9. NATIONAL INVESTMENT POLICY FOR UREA-2026 (NIPU-2026)
 
 - The **CCEA** approved the **National Investment Policy for Urea-2026 for Atmanirbhar Bharat (NIPU-2026)**, successor to the New Investment Policy-2012.
@@ -195,6 +210,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: Indian Express, 16 July 2026*
 
+<a id="sec-5-3-10"></a>
 ### 5.3.10. THE GANDAK RIVER: A TRANSBOUNDARY HIMALAYAN RIVER
 
 - The **Gandak (Narayani/Kali Gandaki)** is one of the largest left-bank tributaries of the Ganga.
@@ -205,6 +221,7 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 
 *Source: Insights IAS, 16 July 2026*
 
+<a id="sec-5-3-11"></a>
 ### 5.3.11. UNESCO'S LIST OF WORLD HERITAGE IN DANGER
 
 - Established under the **1972 World Heritage Convention**, the **List of World Heritage in Danger** flags properties threatened by conflict, disasters, urbanisation, poaching or pollution.
@@ -215,3 +232,5 @@ CAFE-III signals a decisive shift from tokenism to measurable fleet decarbonisat
 *Source: UNESCO, 27 July 2026*
 
 *Source note: This section compiles verified July 2026 environment and climate developments drawn from PIB, MoEFCC, The Hindu, Business Standard, Indian Express, Nature Food, IMD and UNESCO.*
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)

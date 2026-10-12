@@ -1,5 +1,9 @@
+<a id="sec-7"></a>
 # 7. SCIENCE AND TECHNOLOGY
 
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)
+
+<a id="sec-7-1"></a>
 ## 7.1. NISAR MISSION: PUBLIC RELEASE OF S-BAND DATA
 
 **Why in News?**
@@ -24,6 +28,7 @@ ISRO began public release of S-Band radar data from the NASA-ISRO Synthetic Aper
 
 *Source: ISRO, Times of India, The New Indian Express, 27-28 Jul 2026*
 
+<a id="sec-7-2"></a>
 ## 7.2. DRDO ADVANCES INDIGENOUS MISSILE AND JET ENGINE CAPABILITIES
 
 **Why in News?**
@@ -45,6 +50,7 @@ DRDO conducted the maiden flight-test of the 'Kusha' Long-Range Surface-to-Air M
 
 *Source: PIB, DRDO, 23 Jul 2026*
 
+<a id="sec-7-3"></a>
 ## 7.3. INDIA'S FIRST DENGUE VACCINE GETS REGULATORY APPROVAL
 
 **Why in News?**
@@ -68,31 +74,37 @@ The Central Drugs Standard Control Organisation (CDSCO) granted marketing author
 
 *Source: PIB, Ministry of Health and Family Welfare, The Hindu, The Indian Express, 20-21 Jul 2026*
 
+<a id="sec-7-4"></a>
 ## 7.4. NEWS IN SHORTS
 
+<a id="sec-7-4-1"></a>
 ### 7.4.1. ISRO TARGETS SEVEN LAUNCHES IN FY 2026-27
 - **Launch Plan:** ISRO Chairman V. Narayanan announced a target of at least seven launches in the current financial year, with the next mission expected within two months.
 - **Infrastructure:** Plans to commission the second launch complex at Kulasekarapattinam within the financial year to support higher launch frequency.
 - **Context:** Announcement followed the successful maiden orbital launch of Skyroot Aerospace's Vikram-1 rocket.
 - *Source: The Economic Times, ISRO, 18 Jul 2026*
 
+<a id="sec-7-4-2"></a>
 ### 7.4.2. DEPARTMENT OF SPACE TIGHTENS EXIT NORMS FOR KEY MISSIONS
 - **New Directive:** DoS issued an internal memorandum on 14 July 2026 restricting routine acceptance of voluntary retirement/resignation requests from Group A scientific/technical personnel working on Gaganyaan and other critical missions.
 - **Centralised Approval:** Such requests must now be referred to DoS with centre directors' recommendations, reversing a 2020 delegation of powers.
 - **Rationale:** Aimed at safeguarding continuity of nationally important projects amid reported attrition.
 - *Source: The Hindu, The Economic Times, Times of India, 15-16 Jul 2026*
 
+<a id="sec-7-4-3"></a>
 ### 7.4.3. GAGANYAAN TEST FLIGHT TIMELINE INDICATED FOR 2027
 - **Timeline Signal:** ISRO Chairman indicated the first uncrewed test flight for Gaganyaan could slip to Q3 2027, while noting efforts to meet an earlier timeline.
 - **Priority on Safety:** Emphasis on crew escape systems, human-centric systems, and overall mission readiness before crewed flights.
 - *Source: The Indian Express, 28 Jun 2026*
 
+<a id="sec-7-4-4"></a>
 ### 7.4.4. INDIGENOUS CRYSTAL TOXIN GENE TO COMBAT PINK BOLLWORM
 - **Discovery:** ICAR-Sugarcane Breeding Institute (SBI), Coimbatore, isolated a novel Bacillus thuringiensis crystal toxin gene effective against pink bollworm resistant to Bollgard II cotton.
 - **Commercialisation:** MoU signed with Rasi Seeds to develop transgenic cotton hybrids, with commercial seeds expected around 2030 under a Public-Private Partnership.
 - **Significance:** Addresses a major threat to cotton sustainability and farmer livelihoods.
 - *Source: PIB, The Hindu, 16 Jul 2026*
 
+<a id="sec-7-4-5"></a>
 ### 7.4.5. ICMR TRANSFERS THREE INDIGENOUS BIOMEDICAL TECHNOLOGIES
 - **SHetA2:** Licensed to Emcure Pharmaceuticals; a novel anti-HPV therapeutic candidate for treatment of Cervical Intraepithelial Neoplasia (CIN), with potential for safe, affordable intervention.
 - **Typhoid Vaccine Candidate:** Fusion construct of Salmonella typhi outer membrane protein, licensed to Biological E Ltd.
@@ -100,7 +112,10 @@ The Central Drugs Standard Control Organisation (CDSCO) granted marketing author
 - **Platform:** Facilitated under ICMR's Medical Innovations Patent Mitra initiative to accelerate translation of public-funded research.
 - *Source: PIB, 21 Jul 2026*
 
+<a id="sec-7-4-6"></a>
 ### 7.4.6. BRAIN DRAIN CONCERNS HIGHLIGHTED IN ISRO ECOSYSTEM
 - **Attrition Reports:** Multiple reports indicated significant departures of experienced scientists from key ISRO centres in recent months.
 - **Policy Response:** DoS memorandum aimed at retaining critical talent on mission-critical projects while ISRO leadership emphasised continuity and reassignment of responsibilities.
 - *Source: The Wire, Times of India, 24 Jul 2026*
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)

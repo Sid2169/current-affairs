@@ -1,5 +1,9 @@
+<a id="sec-4"></a>
 # 4. SECURITY
 
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)
+
+<a id="sec-4-1"></a>
 ## 4.1. DRDO FLIGHT-TESTS 'KUSHA' LONG-RANGE SAM
 
 **Why in News?**
@@ -19,6 +23,7 @@ The Defence Research and Development Organisation (**DRDO**) conducted the **mai
 
 *Source: DRDO / MoD, 23 Jul 2026*
 
+<a id="sec-4-2"></a>
 ## 4.2. INS MAHENDRAGIRI COMMISSIONED — PROJECT 17A FRIGATE
 
 **Why in News?**
@@ -38,6 +43,7 @@ The Defence Research and Development Organisation (**DRDO**) conducted the **mai
 
 *Source: Indian Navy / MoD, 11 Jul 2026*
 
+<a id="sec-4-3"></a>
 ## 4.3. DEFENCE ACQUISITION COUNCIL APPROVALS — ~₹52,000 CRORE
 
 **Why in News?**
@@ -60,8 +66,10 @@ The **Defence Acquisition Council (DAC)**, in a meeting on **3 July 2026**, gran
 
 *Source: MoD / DAC, 3 Jul 2026*
 
+<a id="sec-4-4"></a>
 ## 4.4. NEWS IN SHORTS
 
+<a id="sec-4-4-1"></a>
 ### 4.4.1. SIPRI — INDIA IS WORLD'S 5TH LARGEST MILITARY SPENDER (2025)
 - Stockholm International Peace Research Institute (**SIPRI**) reported India as the **5th largest military spender in 2025**.
 - India's defence spending rose **8.9% to US$92.1 billion**.
@@ -69,6 +77,7 @@ The **Defence Acquisition Council (DAC)**, in a meeting on **3 July 2026**, gran
 - The rise was partly driven by the **post-May 2025 India–Pakistan conflict**.
 - *(Source: SIPRI, Apr 2026)*
 
+<a id="sec-4-4-2"></a>
 ### 4.4.2. DEFENCE EXPORTS AT RECORD HIGH
 - India's defence exports reached a record **₹38,424 crore in FY2025-26**, up **62.66% year-on-year**.
 - **DPSUs contributed 54.84%** and the **private sector 45.16%**.
@@ -76,18 +85,21 @@ The **Defence Acquisition Council (DAC)**, in a meeting on **3 July 2026**, gran
 - Reflects maturing of the indigenous defence-industrial ecosystem.
 - *(Source: PIB, 2026)*
 
+<a id="sec-4-4-3"></a>
 ### 4.4.3. BRAHMOS EXPORTS AND DEFENCE DIPLOMACY
 - India is set to supply **Indonesia two BrahMos batteries** worth about **US$200 million**, along with **Astra air-to-air missiles** and technology transfer (July 2026).
 - India is also exporting BrahMos to the **Philippines and Vietnam**, with talks on with about **six more countries**.
 - Underscores India's emergence as a credible defence exporter.
 - *(Source: MoD / Media reports, Jul 2026)*
 
+<a id="sec-4-4-4"></a>
 ### 4.4.4. AGNIPATH — SERVICES SEEK HIGHER RETENTION
 - The armed services have pitched for **higher retention of Agniveers** in the regular cadre.
 - The **Navy sought about 75%** retention; the **Army and IAF about 50%**, against the current **25%**.
 - The proposal relates to absorption of trained Agniveer personnel.
 - *(Source: Indian Express, 6 Jul 2026)*
 
+<a id="sec-4-4-5"></a>
 ### 4.4.5. RIMPAC 2026 — INDIA PARTICIPATES
 - The **Rim of the Pacific (RIMPAC) 2026** exercise was held from **24 June to 31 July 2026** in Hawaii.
 - India participated with a **P-8I** maritime patrol aircraft.
@@ -95,12 +107,14 @@ The **Defence Acquisition Council (DAC)**, in a meeting on **3 July 2026**, gran
 - The world's largest international maritime exercise enhances interoperability.
 - *(Source: Indian Navy / US Navy, Jul 2026)*
 
+<a id="sec-4-4-6"></a>
 ### 4.4.6. MANIPUR — 46 KCP CADRES SURRENDER
 - **46 cadres of the Kangleipak Communist Party (KCP-PWG)** surrendered at **Mantripukhri Garrison, Manipur, on 21 July 2026**.
 - They laid down **28 weapons**.
 - Reflects continued progress in restoring normalcy and reintegration in the State.
 - *(Source: Indian Army / PIB, 21 Jul 2026)*
 
+<a id="sec-4-4-7"></a>
 ### 4.4.7. LEFT WING EXTREMISM — SHARP DECLINE
 - The **Ministry of Home Affairs** informed the **Rajya Sabha (July 2026)** that LWE-affected districts had fallen to **"zero"** in March 2026, down from **126 before April 2018**.
 - The **last active CPI(Maoist) politburo member, Misir Besra**, was neutralised.
@@ -108,8 +122,11 @@ The **Defence Acquisition Council (DAC)**, in a meeting on **3 July 2026**, gran
 - Reflects the success of a multi-pronged security-plus-development approach.
 - *(Source: MHA / Rajya Sabha, Jul 2026)*
 
+<a id="sec-4-4-8"></a>
 ### 4.4.8. SPACE — SKYROOT'S VIKRAM-1 AND GSLV-F17/EOS-05
 - **Skyroot Aerospace** launched **Vikram-1**, India's first private rocket (a seven-storey vehicle), from **Sriharikota on 18 July 2026**, reaching low Earth orbit (~450 km).
 - **GSLV-F17 / EOS-05** launch was scheduled for **4 September 2026**.
 - Marks the growing role of the private space sector alongside ISRO.
 - *(Source: ISRO / Skyroot, Jul 2026)*
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)

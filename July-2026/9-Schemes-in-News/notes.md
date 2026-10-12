@@ -1,9 +1,13 @@
+<a id="sec-9"></a>
 # 9. SCHEMES IN NEWS
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)
 
 July 2026 was dominated by two threads on the governance front — the operationalisation of a new rural employment guarantee in place of MGNREGA, and a legislative push to clean up public examinations following the NEET-UG paper-leak controversy. Alongside these, the month saw the first State-level implementation of the revised Waqf framework, a set of foreign-policy and trade moves, and several institutional developments. The main items and the news-in-shorts below cover the schemes, Acts and initiatives that mattered.
 
 ---
 
+<a id="sec-9-1"></a>
 ## 9.1. VIKSIT BHARAT–GUARANTEE FOR ROZGAR AND AJEEVIKA MISSION (GRAMIN) — VB–G RAM G
 
 **Why in News?**
@@ -31,6 +35,7 @@ July 2026 was dominated by two threads on the governance front — the operation
 
 ---
 
+<a id="sec-9-2"></a>
 ## 9.2. WAQF (AMENDMENT) ACT, 2025
 
 **Why in News?**
@@ -55,6 +60,7 @@ July 2026 was dominated by two threads on the governance front — the operation
 
 ---
 
+<a id="sec-9-3"></a>
 ## 9.3. PUBLIC EXAMINATIONS (PREVENTION OF UNFAIR MEANS) AMENDMENT ACT, 2026 — THE "ANTI-PAPER LEAK" LAW
 
 **Why in News?**
@@ -79,6 +85,7 @@ July 2026 was dominated by two threads on the governance front — the operation
 
 ---
 
+<a id="sec-9-4"></a>
 ## 9.4. REGISTRATION OF BIRTHS AND DEATHS (AMENDMENT) BILL, 2026
 
 **Why in News?**
@@ -102,62 +109,75 @@ July 2026 was dominated by two threads on the governance front — the operation
 
 ---
 
+<a id="sec-9-5"></a>
 ## 9.5. NEWS IN SHORTS
 
+<a id="sec-9-5-1"></a>
 ### 9.5.1. INDIA–AUSTRALIA DEFENCE AND URANIUM EXPORT AGREEMENT
 - On **9 July 2026**, India and Australia signed a **defence and uranium export agreement**, deepening strategic ties.
 - The uranium component builds on the India–Australia Civil Nuclear Cooperation Agreement (signed 2014, operational 2015), under which Australia supplies uranium for India's safeguarded civilian nuclear programme.
 - The defence element expands interoperability, exercises and defence-industrial collaboration between the two Quad partners.
 - *Source: Ministry of External Affairs, July 2026*
 
+<a id="sec-9-5-2"></a>
 ### 9.5.2. INDIA–NEW ZEALAND STRATEGIC PARTNERSHIP
 - During Prime Minister Narendra Modi's visit, India and New Zealand announced a **strategic partnership on 11 July 2026 in Auckland**.
 - The partnership expands cooperation on **defence, security, trade, diplomacy, culture, sport, science and maritime issues**.
 - It marks an upgrade in ties with a key Pacific partner in India's Act-East and Indo-Pacific outreach.
 - *Source: Ministry of External Affairs, July 2026*
 
+<a id="sec-9-5-3"></a>
 ### 9.5.3. FIRST INSTALMENT OF ₹25,863 CRORE UNDER VB–G RAM G
 - On **5 July 2026**, the Union Rural Development Minister released the **first instalment of ₹25,863 crore (about US$2.7 billion)** to States for implementing the newly operational VB–G RAM G scheme.
 - The release signals the financial roll-out of the framework that replaced MGNREGA on 1 July 2026.
 - *Source: PIB; Ministry of Rural Development, July 2026*
 
+<a id="sec-9-5-4"></a>
 ### 9.5.4. BRICS INDIA 2026
 - India hosted **BRICS India 2026** on **6 July 2026**, continuing its chairmanship-year engagements with the grouping.
 - BRICS groups Brazil, Russia, India, China and South Africa, with an expanded set of partner countries.
 - Hosting reflects India's push for reformed multilateralism and a multipolar world order.
 - *Source: Ministry of External Affairs, July 2026*
 
+<a id="sec-9-5-5"></a>
 ### 9.5.5. SUPREME COURT ALLOWS NON-POLLUTING MSMEs IN TAJ TRAPEZIUM ZONE
 - On **23 July 2026**, the Supreme Court permitted the **Taj Trapezium Zone Authority to process pending applications** for setting up **non-polluting Micro, Small and Medium Enterprises (MSMEs)** within the Taj Trapezium Zone.
 - The Taj Trapezium Zone is a ~10,400 sq km protected area around the Taj Mahal in Agra, notified to protect the monument from pollution.
 - The order seeks a balance between environmental protection and local industrial livelihoods.
 - *Source: Supreme Court of India; Ministry of Environment, July 2026*
 
+<a id="sec-9-5-6"></a>
 ### 9.5.6. UNITED STATES IMPOSES 10% TARIFF ON INDIA
 - On **24 July 2026**, the United States imposed a **10% tariff on Indian goods**, citing alleged forced labour in the supply chain.
 - The measure adds to global trade friction and is relevant to India's export competitiveness and ongoing trade negotiations.
 - *Source: Ministry of Commerce and Industry; international news agencies, July 2026*
 
+<a id="sec-9-5-7"></a>
 ### 9.5.7. DG SHIPPING ADVISORY ON STRAIT OF HORMUZ
 - On **15 July 2026**, India's **Directorate General of Shipping** warned companies **not to deploy Indian sailors on vessels transiting the Strait of Hormuz**.
 - The advisory followed the killing of **two Indian seafarers** in separate ship attacks in the waterway during the 2026 Strait of Hormuz crisis.
 - The Strait is a critical global oil chokepoint and a key concern for India's energy security and seafarer safety.
 - *Source: Directorate General of Shipping, July 2026*
 
+<a id="sec-9-5-8"></a>
 ### 9.5.8. SKYROOT'S VIKRAM-1 MAIDEN ORBITAL LAUNCH
 - On **18 July 2026**, **Skyroot Aerospace successfully launched Vikram-1**, described as **India's first privately built orbital rocket**, from the **Satish Dhawan Space Centre, Sriharikota**.
 - The maiden flight carried small satellite payloads into low Earth orbit.
 - It underscores the growing role of private players in India's space economy under reformed IN-SPACe/NSIL frameworks.
 - *Source: ISRO/Skyroot Aerospace, July 2026*
 
+<a id="sec-9-5-9"></a>
 ### 9.5.9. INDIA DESIGNATES 23 JeM/LeT OPERATIVES AS TERRORISTS
 - On **4 July 2026**, India designated **23 Pakistan-backed Jaish-e-Mohammed (JeM) and Lashkar-e-Taiba (LeT) operatives** as terrorists.
 - The list included **three close associates of LeT founder Hafiz Saeed**.
 - The designations were made under the Unlawful Activities (Prevention) Act framework, tightening the legal net against cross-border terror networks.
 - *Source: Ministry of Home Affairs, July 2026*
 
+<a id="sec-9-5-10"></a>
 ### 9.5.10. VARSHA AGLAWE — FIRST WOMAN DIRECTOR GENERAL OF GSI
 - On **31 July 2026**, **Varsha Ashok Aglawe assumed charge as the 54th Director General of the Geological Survey of India (GSI)**.
 - She is the **first woman to head the GSI**, India's premier geoscientific survey organisation under the Ministry of Mines.
 - It is a significant milestone for gender representation in India's scientific and technical institutions.
 - *Source: Ministry of Mines; Geological Survey of India, July 2026*
+
+[↑ Back to Monthly Index](../CURRENT_AFFAIRS_JULY_2026.md#toc)

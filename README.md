@@ -10,8 +10,10 @@ monthly current-affairs magazines.
 .
 ├── README.md                # this index
 ├── .gitignore
+├── tools/
+│   └── build_month_index.py # regenerates a month's index from its section files
 ├── July-2026/               # one folder per month
-│   ├── CURRENT_AFFAIRS_JULY_2026.md   # combined edition (full month)
+│   ├── CURRENT_AFFAIRS_JULY_2026.md   # monthly index (cover + Table of Contents)
 │   ├── 1-Polity-and-Governance/notes.md
 │   ├── 2-International-Relations/notes.md
 │   ├── 3-Economy/notes.md
@@ -26,13 +28,15 @@ monthly current-affairs magazines.
 ```
 
 - Each **month** gets its own folder (e.g. `July-2026/`).
-- Every month folder contains a **combined edition** file plus the ten
-  **per-section** notes folders.
+- Every month folder contains a **monthly index** file (cover + Table of Contents)
+  plus the ten **per-section** notes folders.
+- Content lives **only** in the per-section files. The monthly index links to them
+  and stores no duplicated text, so there is a single source of truth per section.
 
 ## Monthly Index
 
-| Month | Combined Edition |
-|-------|------------------|
+| Month | Monthly Index |
+|-------|---------------|
 | July 2026 | [CURRENT_AFFAIRS_JULY_2026.md](July-2026/CURRENT_AFFAIRS_JULY_2026.md) |
 
 ## Section Structure
@@ -52,39 +56,44 @@ Every monthly edition uses the same ten standard sections:
 | 09 | Schemes in News | `9-Schemes-in-News/notes.md` |
 | 10 | Places in News | `10-Places-in-News/notes.md` |
 
-Each combined edition follows the standard monthly-magazine format:
+Each **section file** follows the standard monthly-magazine format:
 
 - Numbered sections, each opening with long-form **"Why in News?"** items.
 - Background explainers, comparison tables, **Challenges / Way Forward / Conclusion**.
 - A **News in Shorts** subsection of concise, factual items.
-- A **clickable Table of Contents**: every TOC entry is an anchor link that jumps
-  directly to its heading, and each section ends with a **↑ Back to Table of
-  Contents** link. Works in rendered Markdown (GitHub, GitLab, VS Code preview, etc.).
+
+Each **monthly index** (`CURRENT_AFFAIRS_<MONTH>_<YEAR>.md`) is a thin navigation
+file: a cover note plus a **clickable Table of Contents** whose every entry (three
+levels deep) links into the relevant section file and heading anchor. Each section
+file also carries a **↑ Back to Monthly Index** link at its top and bottom. These
+links work in rendered Markdown (GitHub, GitLab, VS Code preview, etc.).
 
 ## Section Index — July 2026
 
-Deep links into the [combined July 2026 edition](July-2026/CURRENT_AFFAIRS_JULY_2026.md):
+Direct links into the section files (also reachable via the
+[monthly index](July-2026/CURRENT_AFFAIRS_JULY_2026.md)):
 
 | # | Section | Jump to section | Section notes |
 |---|---------|-----------------|---------------|
-| 01 | Polity & Governance | [1. Polity & Governance](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-1) | [notes](July-2026/1-Polity-and-Governance/notes.md) |
-| 02 | International Relations | [2. International Relations](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-2) | [notes](July-2026/2-International-Relations/notes.md) |
-| 03 | Economy | [3. Economy](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-3) | [notes](July-2026/3-Economy/notes.md) |
-| 04 | Security | [4. Security](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-4) | [notes](July-2026/4-Security/notes.md) |
-| 05 | Environment | [5. Environment](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-5) | [notes](July-2026/5-Environment/notes.md) |
-| 06 | Social Issues | [6. Social Issues](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-6) | [notes](July-2026/6-Social-Issues/notes.md) |
-| 07 | Science & Technology | [7. Science & Technology](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-7) | [notes](July-2026/7-Science-and-Technology/notes.md) |
-| 08 | Culture | [8. Culture](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-8) | [notes](July-2026/8-Culture/notes.md) |
-| 09 | Schemes in News | [9. Schemes in News](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-9) | [notes](July-2026/9-Schemes-in-News/notes.md) |
-| 10 | Places in News | [10. Places in News](July-2026/CURRENT_AFFAIRS_JULY_2026.md#sec-10) | [notes](July-2026/10-Places-in-News/notes.md) |
+| 01 | Polity & Governance | [1. Polity & Governance](July-2026/1-Polity-and-Governance/notes.md#sec-1) | [notes](July-2026/1-Polity-and-Governance/notes.md) |
+| 02 | International Relations | [2. International Relations](July-2026/2-International-Relations/notes.md#sec-2) | [notes](July-2026/2-International-Relations/notes.md) |
+| 03 | Economy | [3. Economy](July-2026/3-Economy/notes.md#sec-3) | [notes](July-2026/3-Economy/notes.md) |
+| 04 | Security | [4. Security](July-2026/4-Security/notes.md#sec-4) | [notes](July-2026/4-Security/notes.md) |
+| 05 | Environment | [5. Environment](July-2026/5-Environment/notes.md#sec-5) | [notes](July-2026/5-Environment/notes.md) |
+| 06 | Social Issues | [6. Social Issues](July-2026/6-Social-Issues/notes.md#sec-6) | [notes](July-2026/6-Social-Issues/notes.md) |
+| 07 | Science & Technology | [7. Science & Technology](July-2026/7-Science-and-Technology/notes.md#sec-7) | [notes](July-2026/7-Science-and-Technology/notes.md) |
+| 08 | Culture | [8. Culture](July-2026/8-Culture/notes.md#sec-8) | [notes](July-2026/8-Culture/notes.md) |
+| 09 | Schemes in News | [9. Schemes in News](July-2026/9-Schemes-in-News/notes.md#sec-9) | [notes](July-2026/9-Schemes-in-News/notes.md) |
+| 10 | Places in News | [10. Places in News](July-2026/10-Places-in-News/notes.md#sec-10) | [notes](July-2026/10-Places-in-News/notes.md) |
 
 ## How to use
 
-- Read a month's combined file top-to-bottom for a full month's revision.
-- Use its **clickable Table of Contents** to jump straight to a section, and the
-  **↑ Back to Table of Contents** links to return.
+- Start at a month's **index** file, then use its **clickable Table of Contents**
+  to jump straight to any item; each section file's **↑ Back to Monthly Index**
+  links return you to the index.
 - Or open an individual section folder to revise one topic at a time.
-- Add future months as new folders (e.g. `August-2026/`) with the same structure.
+- To add a future month, create the folder and its section files, then run
+  `python3 tools/build_month_index.py <month-folder>` to (re)generate its index.
 
 ## Reference
 
